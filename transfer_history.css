@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    color: #FBF8BE;
+    background-color: #234E70;
+    font-family: 'Lato', sans-serif;
+}
+
+.heading{
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+table, th, tr, td{
+    padding: 10px;
+    text-align: center;
+    font-size: large;
+}
+
+th{
+    text-decoration: underline;
+    font-size: larger;
+}
+
+table {
+    border: 2px solid #FBF8BE;
+    margin-left: 170px;
+    margin-bottom: 50px;
+}
+
+footer{
+    border-top: 2px solid #FBF8BE;
+    padding: 10px;
+    height: 120px;
+}
+
+footer > p{
+    font-size: 25px;
+    text-align: center;
+}
